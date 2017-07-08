@@ -12,12 +12,14 @@ behind this cheat sheet are:
 
 Feedback will be welcome. Feel free to PR too.
 
+URL: http://thmosqueiro.vandroiy.com/unix_cl_cheatsheet/
+
 
 Acknowledgements
 ---
 
 * We used
-  (cheatsheetworld)[http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/]
+  [cheatsheetworld](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
   as inspiration for our theme and used their idea of using masonry to append items.
 
 * We used the GitHub's ribbons: https://github.com/blog/273-github-ribbons
